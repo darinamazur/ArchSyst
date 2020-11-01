@@ -1,0 +1,120 @@
+﻿  ArchSyst1.cpp
+  Functional.cpp
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(110,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(229): message : see reference to function template instantiation 'clock_t Empty_cycle<T>(const int &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(6): message : see reference to function template instantiation 'double CheckEff<int>(int)' being compiled
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(156,15): warning C4244: '=': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(232): message : see reference to function template instantiation 'clock_t Subtract<T>(const int &)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(196,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(238): message : see reference to function template instantiation 'clock_t Divide<T>(const int &)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(196,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(197,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(197,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(198,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(198,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(199,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(199,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(201,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(201,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(202,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(202,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(203,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(203,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(205,1): warning C4305: 'initializing': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(205,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(126,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(229): message : see reference to function template instantiation 'clock_t Add<T>(const int &)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(21): message : see reference to function template instantiation 'double CheckEff<float>(int)' being compiled
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(127,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(150,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(232): message : see reference to function template instantiation 'clock_t Subtract<T>(const int &)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(151,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(174,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(235): message : see reference to function template instantiation 'clock_t Multiply<T>(const int &)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Functional.cpp(175,15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  ArchSyst1.vcxproj -> C:\Users\Дарина\Desktop\Академрізниця\Архітектура_Обчисл_систем\ArchSyst1\Debug\ArchSyst1.exe
